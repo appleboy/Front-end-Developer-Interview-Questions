@@ -134,7 +134,7 @@ var person = new Person()
 * В чем разница между `==` и `===`?
 * Как получить параметры из URL'а текущего окна?
 * Объясните `same-origin policy` в контексте JavaScript
-* Объясните `event delegation`
+* О��ъясните `event delegation`
 * Какие Вы знаете паттерны организации наследования в JavaScript?
 * Сделайте так, чтобы этот код работал:
 ```javascript

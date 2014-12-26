@@ -69,7 +69,7 @@ Većina pitanja je preuzeta sa [oksoclap](http://oksoclap.com/) tj. rasprave koj
 ### Pitanja za JavaScript:
 
 * Objasnite delegaciju događaja.
-* Objasnite kako se u Javascriptu koristi `this`
+* Objasnite kako se u JavaScriptu koristi `this`
 * Pojasnite prototipno nasljeđivanje
 * Kako testirate JavaScript? 
 * AMD u usporedbi sa CommonJS-om?
@@ -112,7 +112,7 @@ function Person(){} var person = Person() var person = new Person()
 ```javascript
 [1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]
 ```
-* Opišite strategiju za memoizaciju (izbjegavanje ponovljenog računanja) u Javascript-u.
+* Opišite strategiju za memoizaciju (izbjegavanje ponovljenog računanja) u JavaScript-u.
 * Zašto se Ternarni operator zove Ternarni? 
 * Što je arnost funkcije?  
 * Što je `"use strict";`? Koje su mane, koje prednosti?

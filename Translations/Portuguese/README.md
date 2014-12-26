@@ -27,7 +27,7 @@ A maiorida das questões foram retiradas de um _thread_da [oksoclap](http://okso
 
 * O que você aprendeu ontem ou esta semana?
 * O que te excita ou te interessa em programação/codificação?
-* Quais as suas considerações sobre UI, Segurança, Perfomance, Aplicação, Manutenibilidade  ou Tecnologia quando você desenvolve uma aplicação web ou site? 
+* Quais as suas considerações sobre UI, Segurança, Perfomance, Aplicação, Manutenibilidade  ou Tecnologia quando você desenvolve uma aplicação web ou site?
 * Fale sobre seu ambiente de desenvolvimento preferido. (SO, Editor, Browser, Ferramentas, etc)
 * Com quais sistemas de controle de versão você é familiar?
 * Descreva seu trabalho quando cria uma página web.
@@ -100,12 +100,12 @@ A maiorida das questões foram retiradas de um _thread_da [oksoclap](http://okso
   * Webfonts (Serviços como: Google Webfonts, Typekit etc.)
 * Explique como um browser determina quais os elementos que correspondem a um seletor CSS.
 *  Explique o que você entende sobre *box model* e como você poderia dizer para o navegador en CSS para renderizar seu layout em diferentes *box models*.
-* O que ```* { box-sizing: border-box; }``` faz? Quais são as vantagens? 
+* O que ```* { box-sizing: border-box; }``` faz? Quais são as vantagens?
 * Liste quantas propriedades *display* você puder lembrar.
 * Qual a diferença entre inline e inline-block?
 * Qual a diferença entre elementos posicionados de forma relativa, fixa, absoluta e estática?
 * Quais frameworks CSS você tem usado localmente ou em produção? (Bootstrap, PureCSS, Foundation etc.)
-  * Se sim, quais deles? Se você puder, como você mudaria/melhoraria ele(s)? 
+  * Se sim, quais deles? Se você puder, como você mudaria/melhoraria ele(s)?
 * Você já brincou com as novas especificações de CSS Flexbox e CSS Grid?
 * Como o design responsivo é diferente do design adaptavel?
 * Você já trabalhou com gráficos retina? Se sim, quando e quais técnicas você usou?
@@ -117,7 +117,7 @@ A maiorida das questões foram retiradas de um _thread_da [oksoclap](http://okso
 * Explique como funciona herança prototipada.
 * Como você testa seu JavaScript?
 * AMD vs. CommonJS?
-* Explique por que a seguinte função não funciona como uma IIFE: `function foo(){ }();`. 
+* Explique por que a seguinte função não funciona como uma IIFE: `function foo(){ }();`.
   * O que precisa ser alterado para se tornar uma IIFE?
 * Qual a diferença entre uma variável que `null`,  `undefined` ou `undeclared`?
   * Como você verificaria esses estados?
@@ -129,13 +129,13 @@ A maiorida das questões foram retiradas de um _thread_da [oksoclap](http://okso
 * Qual a diferença entre `.call` e `.apply`?
 * Explique `Function.prototype.bind`.
 * Quando você otimiza seu código?
-* Você pode explicar como funciona a herença no Javascript?
+* Você pode explicar como funciona a herença no JavaScript?
 * Quando você deve usar o `document.write()`?
   * A maioria dos anúncios de publicidade ainda utilizam `document.write()` embora seu uso não seja recomendado.
 * Qual a diferença entre feature detection, feature inference, e o uso de UA string?
 * Explique o que é AJAX o mais detalhadamente possível.
 * Explique como o JSONP funciona (e como ele realmente não é AJAX).
-* Você já utilizou templates com Javascript?
+* Você já utilizou templates com JavaScript?
   * Se sim, quais bibliotecas foram utilizadas? (Mustache.js, Handlebars etc.)
 * Explique o que é "hoisting".
 * Descreva o que é event bubbling.
@@ -144,23 +144,23 @@ A maiorida das questões foram retiradas de um _thread_da [oksoclap](http://okso
 * Qual a diferença entre o evento document load e o evento document ready?
 * Qual a diferença entre `==` e `===`?
 * Explique como você pega um parâmetro na URL do browser.
-* Explique a política de _same-origin_ em relação a Javascript.
+* Explique a política de _same-origin_ em relação a JavaScript.
 * Faça isso funcionar:
 ```javascript
 [1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]
 ```
 * O que é um operador ternário, o que a palavra "ternário" indica/significa?
 * O que é o `"use strict";`? Quais a vantagens e desvantagens de sua utilização?
-* Crie um loop for que itere até `100` enquanto retorn **fizz** em múltiplos de `3`, **buzz** em múltiplos de `5` e **fizzbuzz** em múltiplos de `3` e `5`.
+* Crie um loop for que itere até `100` enquanto retorna **fizz** em múltiplos de `3`, **buzz** em múltiplos de `5` e **fizzbuzz** em múltiplos de `3` e `5`.
 
 ####[[⬆]](#toc) <a name='jquery'>Questões de jQuery:</a>
 
-* Eplique "chaining".
-* Eplique "deferreds".
+* Explique "chaining".
+* Explique "deferreds".
 * Quais são algumas otimizações de jQuery que você pode implementar?
 * O que `.end()` faz?
 * Nomeie 4 valores diferentes que você pode passar para um método jQuery.
-  * Seletor (string), HTML (string), Callback (function), HTMLElement, objeti, array, elemento de array, jQuery Object etc.
+  * Seletor (string), HTML (string), Callback (function), HTMLElement, object, array, elemento de array, jQuery Object, etc.
 * Qual a diferença entre `.get()`, `[]`, e `.eq()`?
 
 ####[[⬆]](#toc) <a name='jscode'>Questões de código:</a>
@@ -188,11 +188,11 @@ add(2)(5); // 7
 
 *Questão: Qual o retorno dos dois alerts abaixo?*
 ```javascript
-var foo = "Hello"; 
-(function() { 
-  var bar = " World"; 
-  alert(foo + bar); 
-})(); 
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
 alert(foo + bar);
 ```
 **Resposta: "Hello World" & ReferenceError: bar is not defined**
@@ -208,7 +208,7 @@ foo.push(2);
 
 ####[[⬆]](#toc) <a name='fun'>Questões Divertidas:</a>
 
-* Qual a coisa mais legal que você desenvolveu recentement? Qual você ficou mais orgulhoso?
+* Qual a coisa mais legal que você desenvolveu recentemente? Qual você ficou mais orgulhoso?
 * Quais suas partes favoritas sobre as ferramentas de desenvolvimento que você usa?
 * Você teve algum projeto para animais de estimação? Qual tipo?
 * Qual sua feature favorita do Internet Explorer?

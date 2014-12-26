@@ -256,6 +256,6 @@ $(".foo div#bar:eq(0)")
 * Where in the world is Carmen Sandiego?
    * Tip: deres svar er altid forkert
 * Hvad er dit foretrukne funktion i Internet Explorer?
-* Færdiggør denne sætning: Brendan Eich og Doug Crockford er __________ af javascript.
+* Færdiggør denne sætning: Brendan Eich og Doug Crockford er __________ af JavaScript.
 * JQuery: et godt bibliotek eller den bedste bibliotek? Diskuter.
 * http://www.w3schools.com/ eller http://w3fools.com/

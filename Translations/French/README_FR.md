@@ -113,9 +113,9 @@ Expliquez ce que le terme «HTML sémantique» signifie.
 ####<a name='js'>Questions sur JS :</a>
 
 * Expliquez la délégation d'évènement.
-* Expliquez comment fonctionne `this` en Javascript.
+* Expliquez comment fonctionne `this` en JavaScript.
 * Expliquez comment fonctionne l'héritage de prototype.
-* Comment testez-vous votre code Javascript ?
+* Comment testez-vous votre code JavaScript ?
 * AMD ou CommonJS ?
 * Qu'est-ce qu'une table de hachage (hashtable) ?
 * Expliquez pourquoi ce qui suit n'est pas une IIFE (Immediately Invoked Function Expression) : `function foo(){ }();`.
@@ -134,18 +134,18 @@ function Person(){} var person = Person() var person = new Person()
 * Quelle est la différence entre `.call` et `.apply` ?
 * Expliquez `Function.prototype.bind` ?
 * Comment optimisez-vous votre code ?
-* Pouvez-vous expliquer comment fonctionne l'héritage en Javascript ?
+* Pouvez-vous expliquer comment fonctionne l'héritage en JavaScript ?
 * Quand utiliseriez-vous `document.write()` ?
   * La plupart des pubs utilisent encore `document.write()` même si son utilisation est découragée.
 * Quelle est la différence entre détection de "feature", inférence de "feature" et l'utilisation du "User-Agent" ?
 * Expliquez ce qu'est AJAX avec autant de détails que possible.
 * Expliquez comment fonctionne JSONP (et pourquoi ce n'est pas réellement de l'AJAX).
-* Avez-vous déjà utilisé des "templates" en Javascript ?
+* Avez-vous déjà utilisé des "templates" en JavaScript ?
   * Si oui, quelles librairies avez-vous utilisées ? (Mustache.js, Handlebars, etc.)
 * Expliquez le phénomène de "hoisting".
 * Décrivez le "event bubbling".
 * Quelle est la différence entre un "attribut" et une "propriété" ?
-* Pourquoi étendre des objets natifs de Javascript n'est-il pas une bonne idée ?
+* Pourquoi étendre des objets natifs de JavaScript n'est-il pas une bonne idée ?
 * Pourquoi étendre les objets natifs est-il une bonne idée ?
 * Quelle est la différence entre les évènements "document load" et "document ready" ?
 * Quelle la différence entre `==` et `===` ?
@@ -156,7 +156,7 @@ function Person(){} var person = Person() var person = new Person()
 ```javascript
 [1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]
 ```
-* Décrivez une stratégie de "memoization" (éviter la répétition de calculs) en Javascript.
+* Décrivez une stratégie de "memoization" (éviter la répétition de calculs) en JavaScript.
 * Qu'est ce que l'opérateur ternaire ? Qu'est-ce que ce mot indique ?
 * Qu'est-ce que l'arité d'une fonction ?
 * Qu'est-ce que `"use strict";`? Quels sont les avantages et désavantages de son utilisation ?

@@ -93,7 +93,7 @@ Većina pitanja je preuzeta sa [oksoclap](http://oksoclap.com/) tj. rasprave koj
 ### JavaScript pitanja:
 
 * Objasnite delegaciju događaja
-* Objasnite kako se u Javascriptu koristi `this`
+* Objasnite kako se u JavaScriptu koristi `this`
 * Objasnite nasleđivanje prototype-a
 * Kako testirate JavaScript?
 * AMD ili CommonJS?
@@ -132,7 +132,7 @@ Većina pitanja je preuzeta sa [oksoclap](http://oksoclap.com/) tj. rasprave koj
 * Objasnite pravilo jednog izvora gledano sa staništa JavaScript-a.
 * Opišite načine nasleđivanja u JavaScript-u.
 * Popravite: `[1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]`
-* Objasnite memoization strategiju (izbegavanje ponavljanja računanja) u Javascript-u.
+* Objasnite memoization strategiju (izbegavanje ponavljanja računanja) u JavaScript-u.
 * Zašto se Ternarni operator zove Ternarni?
 * Šta je arity funkcije?
 * Šta radi `"use strict";`? Koje su mane, koje prednosti?

@@ -29,17 +29,17 @@
 * 서버와 공유할 필요가 있는지의 여부, 저장 용량, 저장 생명주기에 따라 셋을 구분할 수 있습니다.
 
 ##Javascript에 대한 참고
-* 유명한 Javascript Library는 다음과 같습니다.
+* 유명한 JavaScript Library는 다음과 같습니다.
 	* jQuery
 	* Prototype.js
 	* YUI
 	* Ext JS
 	* Dojo
-* Java와 Javascript는 Car와 Carpet의 차이와 비슷하다고 할 수 있습니다.
+* Java와 JavaScript는 Car와 Carpet의 차이와 비슷하다고 할 수 있습니다.
 * [Undeclared, Undefined, Null in JavaScript](http://constc.blogspot.com/2008/07/undeclared-undefined-null-in-javascript.html)
 * [Naver Developer에서 제공 되는 Closure설명](http://dev.naver.com/tech/ajaxui/ajaxui_2.php#a_2_2)
 * [Javascript anonymous functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
-	* [Pro Javascript Techniques(3): Anonymous Functions(한글)](http://happyzoo.tistory.com/124)
+	* [Pro JavaScript Techniques(3): Anonymous Functions(한글)](http://happyzoo.tistory.com/124)
 
 ##jQuery에 대한 참고
 * jQeury들의 거의 모든 method들은 jQuery object를 돌려주도록 되어있습니다.

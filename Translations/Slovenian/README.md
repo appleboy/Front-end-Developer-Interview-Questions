@@ -249,6 +249,6 @@ $(".foo div#bar:eq(0)")
 	* Bonus točke če je kombiniran/a in je dal/a dober razlog (+2 za zombi opica pirat ninja)
 * Če nebi bil/a web-developer, kaj bi počel/a?
 * Najljubša lastnost Internet Explorerja?
-* Dokončaj naslednji stavek: Brendan Eich in Doug Crockford sta __________ javascript-a.
+* Dokončaj naslednji stavek: Brendan Eich in Doug Crockford sta __________ JavaScript-a.
 * jQuery: dobra ali najboljša knjižnica? Debata.
 * http://www.w3schools.com/ ali http://w3fools.com/

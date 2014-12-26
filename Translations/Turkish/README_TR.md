@@ -108,7 +108,7 @@ Söz konusu aşağıdaki sorular [Paul Irish](http://paulirish.com) ([@paul_iris
 * 'Event delegation' özelliğini anlatın.
 * JavaScript'te `this` nasıl çalışıyor?
 * 'prototypal inheritance' nasıl çalışır?
-* Javascript kodunuzu nasıl test ediyorsunuz?
+* JavaScript kodunuzu nasıl test ediyorsunuz?
 * AMD ile CommonJS'in farkı nelerdir?
 * 'hashtable' nedir?
 * IIFE olarak neden bu fonksiyonun çalışmadığını açıklayın: `function foo(){ }();`. 
@@ -130,7 +130,7 @@ function Person(){} var person = Person() var person = new Person()
 * `undefined` ve `null` arasındaki fark nedir?
 * `Function.prototype.bind` özelliğinin ne olduğunu açıklayınız.
 * Kodunuzu ne zaman optimize edersiniz?
-* Javascriptte 'inheritance' nasıl çalışmaktadır?
+* JavaScriptte 'inheritance' nasıl çalışmaktadır?
 * `document.write()` fonksiyonunu ne zaman kullanmalıyız?
   * Çoğu oluşturulan reklam (ads) hala `document.write()` kullanmaktadır.
 * 'Feature detection', 'feature inference', ve 'UA string' kullanımı arasında farklar nelerdir?
@@ -146,13 +146,13 @@ function Person(){} var person = Person() var person = new Person()
 * 'document load' event ile 'document ready' event ne fark var?
 * `==` ve `===` arasında ne fark var?
 * Sayfa URL'inden querystring parametrelerini nasıl alabileceğinizi açıklayın.
-* Javascript için 'same-origin policy' konusunu açıklayın.
-* Javascript'teki 'inheritance patterns' özelliğini açıklayın.
+* JavaScript için 'same-origin policy' konusunu açıklayın.
+* JavaScript'teki 'inheritance patterns' özelliğini açıklayın.
 * Çalışacak şekilde kodu yazın:
 ```javascript
 [1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]
 ```
-* Javascript'te 'memoization (Hesaplama tekrarlarından kaçınma - avoiding calculation repetition)' için stratejiniz nedir?
+* JavaScript'te 'memoization (Hesaplama tekrarlarından kaçınma - avoiding calculation repetition)' için stratejiniz nedir?
 * Neden 'Ternary expression' olarak çağrılmaktadır? "Ternary" kelimesi ne belirtmektedir?
 * Fonksiyonlarda kullanılan 'arity' nedir?
 * `"use strict";` nedir? Bunu kullanmanın artı/eksileri nelerdir?
